@@ -24,7 +24,7 @@ The dataset includes details such as:
 ## Setup Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/arafayr/audible-data-analysis.git
+   git clone https://github.com/arafayr/Data-Analysis-on-Audible-Dataset.git
    ```
 
 2. Install the required libraries:
