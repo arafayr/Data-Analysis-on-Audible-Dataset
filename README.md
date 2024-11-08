@@ -7,9 +7,7 @@ This project performs data cleaning and analysis on an Audible dataset, which in
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
 - [Setup Instructions](#setup-instructions)
-- [Notebook Structure](#script-structure)
-- [Data Cleaning Process](#data-cleaning-process)
-- [Data Analysis](#data-analysis)
+- [Notebook Structure](#notebook-structure)
 - [Insights](#insights)
 
 ## Dataset
