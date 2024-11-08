@@ -34,7 +34,7 @@ The dataset includes details such as:
    pip install pandas numpy word2number
    ```
 
-3. Make sure `audible_uncleaned.xlsx` is in the same directory as the script or update the file path accordingly in `data_analysis_audible.ipynb`.
+3. Make sure `audible_uncleaned.xlsx` is in the same directory as the notebook or update the file path accordingly.
 
 
 ## Notebook Structure
